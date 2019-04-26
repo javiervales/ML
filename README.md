@@ -1,4 +1,4 @@
-# Machine Learning en Inteligencia Ambiental
+# Machine Learning en IoT
 
 Este repositorio proporciona los notebooks del curso sobre <b>Machine Learning en IoT</b> impartido originalmente en en el <b>Máster Universitario en Ingeniería de Telecomunicación</b> en la Universidad Politécnica de Cartagena.
 
